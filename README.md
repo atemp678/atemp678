@@ -2,7 +2,7 @@
 
 My name is Austyn Tempesta; I have a PhD in neuroscience and psychology. 
 
-I mostly code in matlab and javascript. 
+I mostly code in matlab, python and javascript. 
 
 
 
